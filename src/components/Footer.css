@@ -1,0 +1,70 @@
+.top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5rem 0 2rem 0;
+}
+.footer__links{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__links > div {
+    margin: 0 3rem;
+}
+.down{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.down__left{
+    display: flex;
+}
+.down__left > p{
+    padding: 0 1rem;
+    margin: 1rem 0;
+}
+hr{
+    margin: 0 10rem;
+    background-color: #ae03fb !important;
+    height: 3px;
+    border: none;
+}
+.ficon{
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.144);
+    color: #000;
+    margin: 0 4px;
+}
+.ticon{
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.144);
+    color: #000;
+    margin: 0 4px;
+}
+.iicon{
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.144);
+    margin: 0 4px;
+}
+.social__icon{
+    margin: 9px 0;
+}
+.faFacebook > path{
+    color: #000;
+}
+.footer__span{
+    color: #fa7f00;
+}
+.head{
+    font-weight: bold;
+    margin: 0;
+    margin-left: -4px;
+    padding: 8px 0;
+    font-size: 18px;
+}
+.links > li{
+    list-style-type: none;
+}
+#shift{
+    margin-left: -3rem;
+}

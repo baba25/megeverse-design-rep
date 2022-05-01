@@ -1,0 +1,11 @@
+.road__map{
+    width: 900px;
+    height: 600px;
+    margin: 2rem 0;
+}
+.howitwork{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem 0;
+}

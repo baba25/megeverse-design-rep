@@ -1,0 +1,49 @@
+.story{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem 0;
+}
+.story__one{
+    display: block;
+}
+.story__one > h1 {
+    max-width: 250px;
+}
+.story__span{
+    color: #fa7f00;
+}
+.sub{
+    max-width: 350px;
+}
+.story__one > h2 {
+    margin: 1rem 0;
+}
+.drops > h3{
+    border-bottom: 2px solid #af03fb;
+    /* margin: 10px 0; */
+    padding: 9px 0;
+}
+.story__img{
+    width: 350px;
+    height: 400px;
+}
+.story__two{
+    margin-top: -8px;
+    background-image: linear-gradient(to right, #fa7f00 20%, #af03fb 80%);
+    padding: 10px;
+}
+.far{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.arrrow{
+    color: #af03fb !important;
+}
+.fa{
+    color: #af03fb !important;
+}
+FontAwesomeIcon {
+    color: #af03fb;
+}

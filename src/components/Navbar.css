@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+    align-items: center;
+}
+.navbar{
+    position: fixed;
+    z-index: 9;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-bottom: 2px solid rgb(16, 18, 44);
+    background-color: rgb(7, 4, 29);
+}
+.logo{
+    color: #fff;
+}
+.nav__span {
+    color: #fa7f00;
+}
+.nav__menu > ul > li{
+    list-style-type: none;
+    padding: 0 2rem;
+    color: #fff;
+}
+ul{
+    display: flex;
+}
+.navbtn{
+    padding: 7px 14px;
+    background-image: linear-gradient(to right, #fa7f00 10%, #af03fb 90%);
+    color: #fff;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 5px;
+}
