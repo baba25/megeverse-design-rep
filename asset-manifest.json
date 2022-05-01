@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/megeverse-design-rep/static/css/main.74ddd0a8.css",
+    "main.js": "/megeverse-design-rep/static/js/main.dd0ccb03.js",
+    "static/js/787.797c4892.chunk.js": "/megeverse-design-rep/static/js/787.797c4892.chunk.js",
+    "index.html": "/megeverse-design-rep/index.html",
+    "main.74ddd0a8.css.map": "/megeverse-design-rep/static/css/main.74ddd0a8.css.map",
+    "main.dd0ccb03.js.map": "/megeverse-design-rep/static/js/main.dd0ccb03.js.map",
+    "787.797c4892.chunk.js.map": "/megeverse-design-rep/static/js/787.797c4892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ddd0a8.css",
+    "static/js/main.dd0ccb03.js"
+  ]
+}
